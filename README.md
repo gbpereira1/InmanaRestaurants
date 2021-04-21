@@ -1,4 +1,4 @@
-# InamaRestaurants
+# InmamaRestaurants
 
 Project code from NLW_5 Elixir week course
 

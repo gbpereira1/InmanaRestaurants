@@ -1,7 +1,3 @@
-# InamaRestaurants
-
-Project code from NLW_5 Elixir week course
-
 # Inmana
 
 To start your Phoenix server:
